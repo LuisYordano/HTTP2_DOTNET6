@@ -17,5 +17,5 @@ foreach (var weatherForecast in weatherForecasts)
         $"Date:{weatherForecast.Date}, TemperatureC:{weatherForecast.TemperatureC}, Summary:{weatherForecast.Summary}");
 }
 
-record WeatherForecast (DateTime Date,int TemperatureC,int TemperatureF,string? Summary );
+record WeatherForecast (DateTime Date,int TemperatureC,string? Summary );
 
