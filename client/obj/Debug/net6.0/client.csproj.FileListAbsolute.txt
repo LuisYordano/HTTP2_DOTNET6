@@ -1,0 +1,16 @@
+/home/luis/work/dotnet_6/rest_api/client/obj/Debug/net6.0/client.GlobalUsings.g.cs
+/home/luis/work/dotnet_6/rest_api/client/obj/Debug/net6.0/client.csproj.AssemblyReference.cache
+/home/luis/work/dotnet_6/rest_api/client/obj/Debug/net6.0/client.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/work/dotnet_6/rest_api/client/obj/Debug/net6.0/client.AssemblyInfoInputs.cache
+/home/luis/work/dotnet_6/rest_api/client/obj/Debug/net6.0/client.AssemblyInfo.cs
+/home/luis/work/dotnet_6/rest_api/client/obj/Debug/net6.0/client.csproj.CoreCompileInputs.cache
+/home/luis/work/dotnet_6/rest_api/client/bin/Debug/net6.0/client
+/home/luis/work/dotnet_6/rest_api/client/bin/Debug/net6.0/client.deps.json
+/home/luis/work/dotnet_6/rest_api/client/bin/Debug/net6.0/client.runtimeconfig.json
+/home/luis/work/dotnet_6/rest_api/client/bin/Debug/net6.0/client.dll
+/home/luis/work/dotnet_6/rest_api/client/bin/Debug/net6.0/ref/client.dll
+/home/luis/work/dotnet_6/rest_api/client/bin/Debug/net6.0/client.pdb
+/home/luis/work/dotnet_6/rest_api/client/obj/Debug/net6.0/client.dll
+/home/luis/work/dotnet_6/rest_api/client/obj/Debug/net6.0/ref/client.dll
+/home/luis/work/dotnet_6/rest_api/client/obj/Debug/net6.0/client.pdb
+/home/luis/work/dotnet_6/rest_api/client/obj/Debug/net6.0/client.genruntimeconfig.cache
