@@ -11,21 +11,11 @@ var weatherForecasts =
         "https://localhost:7138/weatherforecast");
 
 
-//Console.WriteLine(weatherForecasts);
-
 foreach (var weatherForecast in weatherForecasts)
 {
     Console.WriteLine(
         $"Date:{weatherForecast.Date}, TemperatureC:{weatherForecast.TemperatureC}, Summary:{weatherForecast.Summary}");
 }
 
-public class WeatherForecast
-{
-    public DateTime Date { get; set; }
+record WeatherForecast (DateTime Date,int TemperatureC,int TemperatureF,string? Summary );
 
-    public int TemperatureC { get; set; }
-
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-
-    public string? Summary { get; set; }
-}
